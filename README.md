@@ -18,8 +18,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently working on Automation Test Web by Cypress & mobile Automation Appium [hybrid app flutter]
-- 🌱 I’m currently learning Cyber Pentest 🧑🏽‍💻
-- 🤔 I’m looking for help with to flutter driver
+- 🌱 I’m currently learning cyber security penetration testing [Red Team]  🐞🐞  ![Progress](https://progress-bar.dev/10/?title=progress) 
 - 💬 Ask me about the Automation test
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
