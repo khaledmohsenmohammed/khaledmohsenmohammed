@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Khaled Mohsen</h1>
-<h3 align="center">Software Quality Engineer | Technical Content Writer | UI/UX Designer</h3>
+<h3 align="center">Software Quality Engineer | Cybersecurity Pentester | UI/UX Designer</h3>
 </p>
 
 
